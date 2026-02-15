@@ -2,7 +2,7 @@
 
 Here above is the folder of **Program** and **Documentation**, where **Program** file consists of 8 files of Prog_*.c that covers the solved programs of the designated tasks that were given by our instructor, and **Documentation** file consists of 8 .md files that covers the documentation of the 8 program files that were in the **Program/** folder
 
-<pre> ```bash
+<pre>```
 # DSA_Assignment folder tree
 
 DSA_Assignment/
